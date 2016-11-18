@@ -1,0 +1,7 @@
+homepage:
+    path:     /
+    defaults: { _controller: EasyScrumWelcomeBundle:Default:index }
+
+easy_scrum_login :
+    path : /login
+    defaults: {_controller: EasyScrumWelcomeBundle:Login:login }

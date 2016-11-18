@@ -1,0 +1,4 @@
+services:
+#    easy_scrum_welcome.example:
+#        class: EasyScrum\WelcomeBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
